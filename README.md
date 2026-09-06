@@ -1,7 +1,6 @@
-# 👋 Olá, eu sou o Caio
+# 👋 Olá, eu sou o Caio.
 
-Desenvolvedor **Python** focado em **automação**, **AI agents** e **infraestrutura em nuvem**. Construo ferramentas que resolvem problemas reais — de chatbots no WhatsApp a pipelines Docker prontos para produção.
-
+Estudante de Desenvolvimento de Sistemas focado em Python, automação e desenvolvimento de projetos.
 > 🚀 **Open to Work** — Buscando minha primeira oportunidade em desenvolvimento back-end / DevOps / automação. Remoto ou São Paulo (capital).
 
 ---
@@ -19,11 +18,7 @@ Desenvolvedor **Python** focado em **automação**, **AI agents** e **infraestru
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-**Backend & APIs:** FastAPI · Flask · Node.js · REST · Webhooks
-**Dados:** PostgreSQL · MongoDB · Redis · pgvector
-**Cloud & DevOps:** Docker · Docker Compose · AWS (em aprendizado) · ngrok
-**Automação & IA:** n8n · OpenRouter · Evolution API (WhatsApp) · LangChain
-**Outros:** Pygame · Godot (GDScript) · BeautifulSoup · Requests
+Atualmente desenvolvendo projetos práticos envolvendo Python, APIs, automação com n8n, PostgreSQL, Docker e Git/GitHub. Buscando minha primeira experiência profissional em TI.
 
 ---
 
